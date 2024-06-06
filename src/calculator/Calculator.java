@@ -81,7 +81,6 @@ public class Calculator implements ActionListener {
 		b_clr.addActionListener(this);
 		
 		
-//		t1 = new TextField(10);
 		t1 = new TextField(22);
 		t1.setBounds(20,20,20,20);
 		p.setBounds(50, 50, 10, 10);
